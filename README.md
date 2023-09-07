@@ -15,6 +15,8 @@ Steam (GameLibrary repo, needs work), Nintendo (GB/C/A, GC, Switch etc), PC, Seg
 Backend: 
 Python
 
+For the time being DB is designed in Excel because my first draft of making list of games I have is in excel and it's visually easier for me to do it this way. Need to set up a proper modeller for DB but.. DB is fighting with me causing errors so.. until then it's jerryrig time.
+
 Database is the most likely to change:
 PostgreSQL 
 Possible other:
